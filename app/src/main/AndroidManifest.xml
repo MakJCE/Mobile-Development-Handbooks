@@ -10,6 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DayOneApp">
         <activity
+            android:name=".EvenAndOdd"
+            android:exported="false" />
+        <activity
+            android:name=".ImageAndOnClickListenerActivity"
+            android:exported="false"
+            android:label="@string/title_activity_image_and_on_click_listener"
+            android:theme="@style/Theme.DayOneApp.NoActionBar" />
+        <activity
             android:name=".ActivityMain"
             android:exported="false" />
         <activity

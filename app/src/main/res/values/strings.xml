@@ -3,4 +3,15 @@
     <string name="red_button">ROJO</string>
     <string name="white_button">BLANCO</string>
     <string name="center_text">Cambio de Colores</string>
+    <string name="title_activity_image_and_on_click_listener">ImageAndOnClickListenerActivity
+    </string>
+    <string name="servicios_button">SERVICIOS</string>
+    <string name="portafolio_button">PORTAFOLIO</string>
+    <string name="acercade_button">ACERCA DE</string>
+    <string name="contacto_button">CONTACTO</string>
+    <string name="redessociales_button">REDES SOCIALES</string>
+    <string name="even_button">PAR</string>
+    <string name="odd_button">INPAR</string>
+    <string name="corrects_label">Correctos:</string>
+    <string name="wrongs_label">Incorrectos:</string>
 </resources>

@@ -14,5 +14,13 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, ActivityMain::class.java)
             startActivity(intent)
         }
+        findViewById<Button>(R.id.manual2).setOnClickListener{
+            val intent = Intent(this, ImageAndOnClickListenerActivity::class.java)
+            startActivity(intent)
+        }
+        findViewById<Button>(R.id.manual3).setOnClickListener{
+            val intent = Intent(this, EvenAndOdd::class.java)
+            startActivity(intent)
+        }
     }
 }

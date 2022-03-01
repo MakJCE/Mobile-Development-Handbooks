@@ -25,4 +25,23 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
+    <Button
+        android:id="@+id/manual2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manual 2"
+        app:layout_constraintEnd_toEndOf="@+id/manual1"
+        app:layout_constraintStart_toStartOf="@+id/manual1"
+        app:layout_constraintTop_toBottomOf="@+id/manual1" />
+
+    <Button
+        android:id="@+id/manual3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manual 3"
+        app:layout_constraintEnd_toEndOf="@+id/manual1"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/manual1"
+        app:layout_constraintTop_toBottomOf="@+id/manual2" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
