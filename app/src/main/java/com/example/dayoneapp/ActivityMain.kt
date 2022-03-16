@@ -7,7 +7,6 @@ import android.widget.Button
 
 import android.widget.Toast
 import androidx.constraintlayout.widget.ConstraintLayout
-import java.time.Duration
 
 class ActivityMain : AppCompatActivity() {
     private val redBtn : Button
@@ -28,6 +27,6 @@ class ActivityMain : AppCompatActivity() {
             layoutPrincipal.setBackgroundColor(Color.WHITE)
         }
     }
-    private fun toast(text: String, duration: Int = Toast.LENGTH_LONG) =
+    private fun toast(text: String) =
         Toast.makeText(this@ActivityMain, text, Toast.LENGTH_LONG).show()
 }

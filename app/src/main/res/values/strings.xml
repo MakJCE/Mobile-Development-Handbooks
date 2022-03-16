@@ -5,6 +5,7 @@
     <string name="center_text">Cambio de Colores</string>
     <string name="title_activity_image_and_on_click_listener">ImageAndOnClickListenerActivity
     </string>
+    <string name="bienvenida_label">Bienvenido a Android UCB</string>
     <string name="servicios_button">SERVICIOS</string>
     <string name="portafolio_button">PORTAFOLIO</string>
     <string name="acercade_button">ACERCA DE</string>
@@ -14,4 +15,7 @@
     <string name="odd_button">INPAR</string>
     <string name="corrects_label">Correctos:</string>
     <string name="wrongs_label">Incorrectos:</string>
+    <string name="manual1_label">Manual 1</string>
+    <string name="manual2_label">Manual 2</string>
+    <string name="manual3_label">Manual 3</string>
 </resources>

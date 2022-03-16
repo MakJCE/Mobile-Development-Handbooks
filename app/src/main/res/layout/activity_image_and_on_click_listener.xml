@@ -50,7 +50,6 @@
         android:insetTop="0dp"
         android:insetBottom="0dp"
         android:text="@string/servicios_button"
-        android:textColor="#FFFFFF"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/portafolio_btn"
         app:layout_constraintEnd_toEndOf="parent"

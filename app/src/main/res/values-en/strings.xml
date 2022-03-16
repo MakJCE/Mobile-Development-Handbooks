@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">DayOneApp</string>
+    <string name="red_button">RED</string>
+    <string name="white_button">WHITE</string>
+    <string name="center_text">COLORS CHANGING</string>
+    <string name="title_activity_image_and_on_click_listener">ImageAndOnClickListenerActivity
+    </string>
+    <string name="bienvenida_label">Welcome to Android UCB</string>
+    <string name="servicios_button">SERVICES</string>
+    <string name="portafolio_button">PORTFOLIO</string>
+    <string name="acercade_button">ABOUT</string>
+    <string name="contacto_button">CONTACT</string>
+    <string name="redessociales_button">SOCIAL MEDIA</string>
+    <string name="even_button">EVEN</string>
+    <string name="odd_button">ODD</string>
+    <string name="corrects_label">Succeded:</string>
+    <string name="wrongs_label">Wrongs:</string>
+    <string name="manual1_label">Handbook 1</string>
+    <string name="manual2_label">Handbook 2</string>
+    <string name="manual3_label">Handbook 3</string>
+</resources>
